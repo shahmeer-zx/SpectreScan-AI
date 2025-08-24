@@ -24,20 +24,20 @@ SpectreScan-AI is a Python-based network scanning and reconnaissance tool powere
 Follow these steps to get started with SpectreScan-AI:
 
 
-# 1. Clone the repository
-```sh
+# 1. **Clone the repository**
+```shell
 git clone https://github.com/shahmeer-zx/SpectreScan-AI.git
 cd SpectreScan-AI
-'''
-# 2. Install dependencies
+```
+# 2. **Install dependencies**
 ```bash
 pip install -r requirements.txt
-'''
-# 3. Add your AI API key
+```
+# 3. **Add your AI API key**
 # Open main.py and replace the placeholder with your API key:
 # API_KEY = "YOUR_API_KEY_HERE"
 
-# 4. Run the tool
+# 4. **Run the tool**
 ```bash
 python main.py
-'''
+```
